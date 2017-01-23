@@ -15,7 +15,7 @@
     Visual Python Code Walkthrough
     Codecademy Python
     How to Think Like a Computer Scientist9 - Interactive textbook that teaches programming with Python
-    Introduction to Computer Science and Programming Using Python4 (MIT)
+    Introduction to Computer Science and Programming Using Python (MIT)
     CS for All: Introduction to Computer Science & Python Programming
     Learning Python7 - Free ebook
     New Coder3 - Tutorials/challenges to take you from newbie to actual coder.
@@ -26,4 +26,3 @@
     Tango with Django
     Django Girls' Tutorial - Build a blog
     TaskBuster Django Tutorial1 - Build a Django project from scratch
-
