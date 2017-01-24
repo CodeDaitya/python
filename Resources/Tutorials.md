@@ -26,3 +26,5 @@
    * [Tango with Django](http://www.tangowithdjango.com/)
    * [Django Girls' Tutorial - Build a blog](http://tutorial.djangogirls.org/en/)
    * [TaskBuster Django Tutorial - Build a Django project from scratch](http://www.marinamele.com/taskbuster-django-tutorial)
+
+   **Tools : **[PyCharm Edu - a free educational version of PyCharm](https://www.jetbrains.com/pycharm-edu/)
