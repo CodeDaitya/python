@@ -14,7 +14,7 @@
    * Python REPL in Browser
    * Visual Python Code Walkthrough
    * Codecademy Python
-   * How to Think Like a Computer Scientist9 - Interactive textbook that teaches programming with Python
+   * How to Think Like a Computer Scientist - Interactive textbook that teaches programming with Python
    * Introduction to Computer Science and Programming Using Python (MIT)
    * CS for All: Introduction to Computer Science & Python Programming
    * Learning Python - Free ebook
