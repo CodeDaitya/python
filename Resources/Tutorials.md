@@ -25,4 +25,4 @@
    * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
    * [Tango with Django](http://www.tangowithdjango.com/)
    * [Django Girls' Tutorial - Build a blog](http://tutorial.djangogirls.org/en/)
-   * [TaskBuster Django Tutorial1 - Build a Django project from scratch](http://www.marinamele.com/taskbuster-django-tutorial)
+   * [TaskBuster Django Tutorial - Build a Django project from scratch](http://www.marinamele.com/taskbuster-django-tutorial)
