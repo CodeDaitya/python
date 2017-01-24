@@ -1,28 +1,28 @@
 ## Tutorials
 
 
-   * Python Official Tutorials
-   * The Hitchhiker's Guide to Python
-   * Google Python Class
-   * Learn Python the Hard Way
-   * Think Python
-   * Learn Python in X minutes
-   * Learn Python 3 in X minutes
-   * Dive into Python
-   * Full Stack Python
-   * Automate the Boring Stuff with Python
-   * Python REPL in Browser
-   * Visual Python Code Walkthrough
-   * Codecademy Python
-   * How to Think Like a Computer Scientist - Interactive textbook that teaches programming with Python
-   * Introduction to Computer Science and Programming Using Python (MIT)
-   * CS for All: Introduction to Computer Science & Python Programming
-   * Learning Python - Free ebook
-   * New Coder - Tutorials/challenges to take you from newbie to actual coder.
-   * Invent with Python (plus two other books by the Automate the Boring Stuff guy)
-   * Problem Solving with Algorithms and Data Structures Using Python
-   * Python Design Patterns
-   * Test-Driven Development with Python
-   * Tango with Django
-   * Django Girls' Tutorial - Build a blog
-   * TaskBuster Django Tutorial1 - Build a Django project from scratch
+   * [Python Official Tutorials](https://docs.python.org/3/tutorial/)
+   * [The Hitchhiker's Guide to Python](https://python-guide.readthedocs.org/en/latest/)
+   * [Google Python Class](https://developers.google.com/edu/python/)
+   * [Learn Python the Hard Way](http://learnpythonthehardway.org/book/)
+   * [Think Python](http://www.greenteapress.com/thinkpython/html/index.html)
+   * [Learn Python in X minutes](https://learnxinyminutes.com/docs/python/)
+   * [Learn Python 3 in X minutes](https://learnxinyminutes.com/docs/python3/)
+   * [Dive into Python](http://www.diveintopython3.net/)
+   * [Full Stack Python](http://www.fullstackpython.com/)
+   * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+   * [Python REPL in Browser](https://repl.it/languages/python3)
+   * [Visual Python Code Walkthrough](http://pythontutor.com/)
+   * [Codecademy Python](https://www.codecademy.com/learn/python)
+   * [How to Think Like a Computer Scientist - Interactive textbook that teaches programming with Python](http://interactivepython.org/runestone/static/thinkcspy/index.html)
+   * [Introduction to Computer Science and Programming Using Python (MIT)](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-8)
+   * [CS for All: Introduction to Computer Science & Python Programming](https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x-0)
+   * [Learning Python - Free ebook](https://www.packtpub.com/packt/free-ebook/learning-python)
+   * [New Coder - Tutorials/challenges to take you from newbie to actual coder.](http://newcoder.io/)
+   * [Invent with Python (plus two other books by the Automate the Boring Stuff guy)](https://inventwithpython.com/)
+   * [Problem Solving with Algorithms and Data Structures Using Python](http://interactivepython.org/runestone/static/pythonds/index.html)
+   * [Python Design Patterns](https://github.com/faif/python-patterns)
+   * [Test-Driven Development with Python](http://chimera.labs.oreilly.com/books/1234000000754/index.html)
+   * [Tango with Django](http://www.tangowithdjango.com/)
+   * [Django Girls' Tutorial - Build a blog](http://tutorial.djangogirls.org/en/)
+   * [TaskBuster Django Tutorial1 - Build a Django project from scratch](http://www.marinamele.com/taskbuster-django-tutorial)
